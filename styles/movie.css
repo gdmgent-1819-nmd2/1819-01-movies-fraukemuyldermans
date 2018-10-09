@@ -1,0 +1,44 @@
+h1{
+    font-size:100px;
+    text-align: center;
+}
+blockquote{
+    font-size:80px ;
+    text-align: center;
+}
+
+ul{
+    list-style-image: disc;
+    
+    
+}
+div.right{
+    text-align: right;
+}
+
+.image{
+    width: 40%;
+}
+
+.bigimg{
+    width: 100%;
+}
+
+ul{
+    width: 40%;
+
+}
+.right{
+    text-align: right;
+    align: right;
+}
+
+
+
+@media (min-width: 576px) {}
+
+@media (min-width: 992px) {}
+
+
+
+
