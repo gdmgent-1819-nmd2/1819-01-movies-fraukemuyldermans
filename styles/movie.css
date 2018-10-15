@@ -33,7 +33,13 @@ ul{
     align: right;
 }
 
+button{
+    color: #EFEDDC;
+}
 
+html{
+    background-color: #D3D3D3;
+}
 
 @media (min-width: 576px) {}
 
