@@ -11,6 +11,8 @@ h1{
 body{
     background-color: #DFDFE0;
     font-family:Arial Hebrew;
+    color:#454545;
+    
 }
 
 ul{
@@ -62,7 +64,7 @@ hr {
 }
 
 .quote-text{
-    
+    color:#A9A9A9;
 }
 .blockquote-footer{
     color:#E8C784;
@@ -83,7 +85,7 @@ hr {
 
 @media (min-width: 992px) {
     blockquote{
-        font-size:70px ;
+        font-size:50px ;
         text-align: center;
     }
 
