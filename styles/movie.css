@@ -1,14 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Slabo+27px");
+
 h1{
     font-size:100px;
     text-align: center;
+    color: #E8C784;
+    
 }
-blockquote{
-    font-size:80px ;
-    text-align: center;
+
+
+body{
+    background-color: #DFDFE0;
+    font-family:Arial Hebrew;
 }
 
 ul{
     list-style-image: disc;
+    list-style:#E8C784;
     
     
 }
@@ -28,22 +35,60 @@ ul{
     width: 40%;
 
 }
+
 .right{
     text-align: right;
     align: right;
 }
 
-button{
-    color: #EFEDDC;
+.btn{
+    border-radius: 0;
+    bottom: 15px;
+
+    
 }
 
-html{
-    background-color: #D3D3D3;
+.btn-primary{
+    
+    background-color:#E8C784;
+    border-color:#E8C784;
+    color:black;
+    
 }
 
-@media (min-width: 576px) {}
+hr {
+    color:;
+    width:1000px
+}
 
-@media (min-width: 992px) {}
+.quote-text{
+    
+}
+.blockquote-footer{
+    color:#E8C784;
+}
+
+@media (min-width: 576px) {
+    blockquote{
+        font-size:30px ;
+        text-align: center;
+    }
+
+    h1{
+        font-size:80px;
+        text-align: center;
+    }
+        
+}
+
+@media (min-width: 992px) {
+    blockquote{
+        font-size:70px ;
+        text-align: center;
+    }
+
+    
+}
 
 
 
