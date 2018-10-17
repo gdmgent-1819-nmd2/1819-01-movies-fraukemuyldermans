@@ -70,6 +70,17 @@ hr {
     color:#E8C784;
 }
 
+.logo{
+    width: 10%
+}
+
+.footer{
+    text-align:center;
+    font-size:10px;
+    color:#A9A9A9;
+}
+
+
 @media (min-width: 576px) {
     blockquote{
         font-size:30px ;
